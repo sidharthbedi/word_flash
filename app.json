@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "WordFlash",
+    "slug": "wordflash",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.wordflash.app"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e2dd4624-d1e5-4a4e-a27f-b64e6ab72381"
+      }
+    }
+  }
+}
